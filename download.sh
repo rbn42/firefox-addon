@@ -1,7 +1,7 @@
 #Adblock Plus
 wget https://addons.mozilla.org/firefox/downloads/latest/adblock-plus/addon-1865-latest.xpi
 #Add to Search Bar
-https://addons.mozilla.org/firefox/downloads/latest/add-to-search-bar/addon-3682-latest.xpi
+wget https://addons.mozilla.org/firefox/downloads/latest/add-to-search-bar/addon-3682-latest.xpi
 #Classic Theme Restorer
 wget https://addons.mozilla.org/firefox/downloads/latest/classicthemerestorer/addon-472577-latest.xpi
 #Firebug
