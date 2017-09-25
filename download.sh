@@ -14,3 +14,5 @@ wget https://addons.mozilla.org/firefox/downloads/latest/hide-caption-titlebar-p
 wget https://addons.mozilla.org/firefox/downloads/latest/self-destructing-cookies/addon-415846-latest.xpi
 #VimFx
 wget https://addons.mozilla.org/firefox/downloads/latest/vimfx/addon-404785-latest.xpi
+#Personas Plus
+wget https://addons.mozilla.org/firefox/downloads/latest/personas-plus/addon-10900-latest.xpi
