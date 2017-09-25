@@ -16,3 +16,9 @@ wget https://addons.mozilla.org/firefox/downloads/latest/self-destructing-cookie
 wget https://addons.mozilla.org/firefox/downloads/latest/vimfx/addon-404785-latest.xpi
 #Personas Plus
 wget https://addons.mozilla.org/firefox/downloads/latest/personas-plus/addon-10900-latest.xpi
+
+#arc theme
+wget https://addons.mozilla.org/firefox/downloads/file/607619/arc_theme-52.20170311-fx-linux.xpi
+wget https://addons.mozilla.org/firefox/downloads/file/607620/arc_darker_theme-52.20170311-fx-linux.xpi
+wget https://addons.mozilla.org/firefox/downloads/file/607621/arc_dark_theme-52.20170311-fx-linux.xpi
+
