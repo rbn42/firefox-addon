@@ -1,0 +1,4 @@
+user_pref("lightweightThemes.persisted.footerURL", true);
+user_pref("lightweightThemes.persisted.headerURL", true);
+user_pref("lightweightThemes.selectedThemeID", "538130");
+user_pref("lightweightThemes.usedThemes", "[{\"id\":\"538130\",\"name\":\"autumn nature\",\"headerURL\":\"https://addons.cdn.mozilla.net/user-media/addons/538130/header.png?1408692030\",\"footerURL\":\"https://addons.cdn.mozilla.net/user-media/addons/538130/footer.png?1408692030\",\"textcolor\":\"#fffacf\",\"accentcolor\":\"#ffffff\",\"iconURL\":\"https://addons.cdn.mozilla.net/user-media/addons/538130/icon.png?1408692030\",\"previewURL\":\"https://addons.cdn.mozilla.net/user-media/addons/538130/preview.png?1408692030\",\"author\":\"OlgaBelaya\",\"updateURL\":\"https://versioncheck.addons.mozilla.org/en-US/themes/update-check/538130\",\"version\":\"1.0\",\"updateDate\":1506363199393,\"installDate\":1506363199393}]");

@@ -1,0 +1,4 @@
+user_pref("lightweightThemes.persisted.footerURL", true);
+user_pref("lightweightThemes.persisted.headerURL", true);
+user_pref("lightweightThemes.selectedThemeID", "");
+user_pref("lightweightThemes.usedThemes", "[{\"id\":\"77468\",\"name\":\"Cute Kitty Girl\",\"headerURL\":\"https://addons.cdn.mozilla.net/user-media/addons/77468/CuteKittyGirl1.jpg?1266056053\",\"footerURL\":\"https://addons.cdn.mozilla.net/user-media/addons/77468/CuteKittyGirl1bottom.jpg?1266056053\",\"textcolor\":\"#\",\"accentcolor\":\"#\",\"iconURL\":\"https://addons.cdn.mozilla.net/user-media/addons/77468/preview_small.jpg?1266056053\",\"previewURL\":\"https://addons.cdn.mozilla.net/user-media/addons/77468/preview_large.jpg?1266056053\",\"author\":\"Songbird\",\"description\":\"Cute, Kitty, Girl, Anime, Blue, Purple, TV, by: Songbird\",\"updateURL\":\"https://versioncheck.addons.mozilla.org/en-US/themes/update-check/77468\",\"version\":\"1.0\"}]");
